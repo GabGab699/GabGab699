@@ -8,7 +8,7 @@
 .text-intro-aside p{color: #ffba08;}
 .image-aside img{width: 100vh; height: auto; border-top: 5px solid #4895ef; border-radius: 20px;}
 .intro-below-section{border-top: 20px solid #83c5be; border-bottom: 40px solid #83c5be;}
-body{overflow-x: hidden;}
+body{overflow-x;}
 
 .dropdown-items a{font-size: 20px;font-weight: bold;font-family:Georgia, 'Times New Roman', Times, serif;}
 .dropdown a {display: block;text-decoration: none;padding: 10px 15px;}
@@ -138,3 +138,4 @@ footer .container p{font-size: 15px;}
 .introduction{background-image: url(campus-mcpi.png);background-repeat: no-repeat;background-size: cover;position: relative;}
 .text-hidden{z-index: -100;}
 .hidden{padding: 150px;}
+
