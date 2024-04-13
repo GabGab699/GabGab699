@@ -1,7 +1,6 @@
 .content-right img{border-top: 10px solid #118ab2;border-radius: 20px;}
 .text-mission h2{text-align: center;}
 .text-core-value h2{text-align: center;}
-.text-core-value{margin-top: -66em;}
 .subheader{font-size: 18px;}
 @media (max-width:1060px){
     .text-core-value{margin-top: 0px;}
